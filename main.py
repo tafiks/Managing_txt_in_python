@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 from tkinter import simpledialog
 root = tk.Tk()
-file_name = "123.txt"
+file_name = "main.txt"
 code = "1"
 
 def on():
